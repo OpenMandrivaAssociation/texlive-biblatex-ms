@@ -1,6 +1,6 @@
 Name:		texlive-biblatex-ms
 Version:	64180
-Release:	1
+Release:	2
 Summary:	Sophisticated Bibliographies in LaTeX (multiscript version)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-ms
