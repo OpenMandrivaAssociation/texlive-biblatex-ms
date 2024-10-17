@@ -3,7 +3,7 @@ Version:	64180
 Release:	2
 Summary:	Sophisticated Bibliographies in LaTeX (multiscript version)
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-ms
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-ms
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-ms.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-ms.doc.r%{version}.tar.xz
